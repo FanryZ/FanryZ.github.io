@@ -36,7 +36,6 @@ theme: minima
 # remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
