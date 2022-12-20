@@ -21,18 +21,19 @@
 title: Fanry's Blog
 email: fry21@mails.tsinghua.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  But a poem is never actually finished
-  It just stops moving
+  A poem is never actually finished. 
+  It just stops moving.
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  FanryZ
 
 # Build settings
 theme: minima
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
