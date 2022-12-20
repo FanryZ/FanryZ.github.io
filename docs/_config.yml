@@ -33,10 +33,9 @@ github_username:  FanryZ
 
 # Build settings
 theme: minima
-# remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
