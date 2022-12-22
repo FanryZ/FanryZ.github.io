@@ -32,6 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  FanryZ
 
 # Build settings
+markdown: kramdown
 theme: minima
 # remote_theme: benbalter/retlab
 plugins:
