@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "矩阵求导"
-date: 2024-8-24
+date: 2024-8-23
 categories: math matrix
 ---
 
