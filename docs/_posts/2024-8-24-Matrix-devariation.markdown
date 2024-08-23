@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "矩阵求导"
-date:   2024-8-24
+date: 2024-8-24
 categories: math matrix
 ---
 
@@ -58,4 +58,3 @@ $$ \triangledown_bf = \frac{1}{m} e^T(AX + be^T - Y)$$
 令 $\triangledown_Af = 0, \triangledown_bf = 0$ 解得最终结果。
 
 练习：推导 PCA (主成分分析) 。
-
