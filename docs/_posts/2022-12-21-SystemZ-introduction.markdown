@@ -1,3 +1,16 @@
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 ---
 layout: post
 title:  "曾经的尝试-Z系统"
@@ -32,7 +45,7 @@ categories: SystemZ methodology
 
 ### 货币系统
 
-我设定这个游戏的货币系统为 $$\Zeta$$ , 1单位的 $$\Zeta$$ 表示 1小时的工作时间，可以换取 $x$ 单位的休息时间：
+我设定这个游戏的货币系统为 $\Zeta$ , 1单位的 $\Zeta$ 表示 1小时的工作时间，可以换取 $x$ 单位的休息时间：
 
 $$
 \Zeta = 1\ hour \ work = x \ free \ time
