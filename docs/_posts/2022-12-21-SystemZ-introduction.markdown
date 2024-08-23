@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "曾经的尝试-Z系统"
+date:   2022-12-20
+categories: SystemZ methodology
+---
 
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
@@ -10,13 +16,6 @@
         });
     </script>
 </head>
-
----
-layout: post
-title:  "曾经的尝试-Z系统"
-date:   2022-12-20
-categories: SystemZ methodology
----
 
 在经过返乡后半个多月的熬夜，放纵，内心挣扎与自我否定，我终于不得不承认，当下的我正处在“困境”中。这种困境在我之前的职业生涯中周期性地出现，不过与之前不同的是，这次是对之前所有悬而未决的问题的清算，是过往困境的总和，是时光降在我身上的最终审判。
 
