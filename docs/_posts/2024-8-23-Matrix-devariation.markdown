@@ -39,11 +39,11 @@ $$ \delta f = \sum_{i, j}(\triangledown_x f)_{ij}(\delta x)_{ij} = tr((\triangle
 
 于是我们存在两种矩阵求导方法：直接求导与微分法。
 
-例：学习仿射变换 $argmin_{A, b}f(A, b) = \frac{1}{2m}\sum ||Ax_i + b - y_i||_2^2$
+例：学习仿射变换 $ argmin_{A, b}f(A, b) = \frac{1}{2m}\sum \Vert Ax_i + b - y_i\Vert_2^2 $
 
 有
 
-$$ f(A, b) = \frac{1}{2m}||AX + be^T - Y||_F^2 $$
+$$ f(A, b) = \frac{1}{2m}\Vert AX + be^T - Y\Vert_F^2 $$
 
 其中 $X = [x_1, x_2, \cdots, x_m]$, $Y = [y_1, y_2, \cdots, y_m]$, $e = [1\ 1\ \cdots\ 1]^T$.
 
